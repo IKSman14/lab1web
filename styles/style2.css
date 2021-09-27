@@ -1,0 +1,18 @@
+html {
+    background-color: #e3ffdd;
+    border: 15px double rgb(64, 169, 255);
+  }
+  body {
+      padding: 0 50 0 0;
+  }
+  h1 {
+    font-size: 60px;
+    font-family: 'Lobster', cursive;;  
+    color: rgb(0, 64, 148);  
+  }
+  p {
+    text-indent: 1.5em;
+    width: 900px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;  
+  }
